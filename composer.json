@@ -1,0 +1,19 @@
+{
+    "name": "cwchiu/php-gettext-utils",
+    "description": "php gettext utility",
+    "type": "library",
+    "keywords": ["composer", "gettext", "library"],
+    "homepage": "https://github.com/cwchiu/php-gettext-utils",
+    "authors": [
+        {
+            "name": "Chui-Wen Chiu",
+            "email": "sisimi.pchome@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4" : {
+            "cwchiu\\gettext\\" : "src"
+        }
+    },
+    "require": {}
+}
